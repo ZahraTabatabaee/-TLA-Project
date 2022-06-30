@@ -1,0 +1,16 @@
+E:\TLA\Q1\obj\Debug\net5.0\Q1.csprojAssemblyReference.cache
+E:\TLA\Q1\obj\Debug\net5.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+E:\TLA\Q1\obj\Debug\net5.0\Q1.AssemblyInfoInputs.cache
+E:\TLA\Q1\obj\Debug\net5.0\Q1.AssemblyInfo.cs
+E:\TLA\Q1\obj\Debug\net5.0\Q1.csproj.CoreCompileInputs.cache
+E:\TLA\Q1\bin\Debug\net5.0\Q1.exe
+E:\TLA\Q1\bin\Debug\net5.0\Q1.deps.json
+E:\TLA\Q1\bin\Debug\net5.0\Q1.runtimeconfig.json
+E:\TLA\Q1\bin\Debug\net5.0\Q1.runtimeconfig.dev.json
+E:\TLA\Q1\bin\Debug\net5.0\Q1.dll
+E:\TLA\Q1\bin\Debug\net5.0\ref\Q1.dll
+E:\TLA\Q1\bin\Debug\net5.0\Q1.pdb
+E:\TLA\Q1\obj\Debug\net5.0\Q1.dll
+E:\TLA\Q1\obj\Debug\net5.0\ref\Q1.dll
+E:\TLA\Q1\obj\Debug\net5.0\Q1.pdb
+E:\TLA\Q1\obj\Debug\net5.0\Q1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\TLA\Q2\bin\Debug\net5.0\Q2.exe
+E:\TLA\Q2\bin\Debug\net5.0\Q2.deps.json
+E:\TLA\Q2\bin\Debug\net5.0\Q2.runtimeconfig.json
+E:\TLA\Q2\bin\Debug\net5.0\Q2.runtimeconfig.dev.json
+E:\TLA\Q2\bin\Debug\net5.0\Q2.dll
+E:\TLA\Q2\bin\Debug\net5.0\ref\Q2.dll
+E:\TLA\Q2\bin\Debug\net5.0\Q2.pdb
+E:\TLA\Q2\obj\Debug\net5.0\Q2.csprojAssemblyReference.cache
+E:\TLA\Q2\obj\Debug\net5.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+E:\TLA\Q2\obj\Debug\net5.0\Q2.AssemblyInfoInputs.cache
+E:\TLA\Q2\obj\Debug\net5.0\Q2.AssemblyInfo.cs
+E:\TLA\Q2\obj\Debug\net5.0\Q2.csproj.CoreCompileInputs.cache
+E:\TLA\Q2\obj\Debug\net5.0\Q2.dll
+E:\TLA\Q2\obj\Debug\net5.0\ref\Q2.dll
+E:\TLA\Q2\obj\Debug\net5.0\Q2.pdb
+E:\TLA\Q2\obj\Debug\net5.0\Q2.genruntimeconfig.cache
